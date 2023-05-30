@@ -1,0 +1,6 @@
+O programa desemvolvido armazena os resultados das etapas de um processo seletivo, 
+a partir dessas notas o usuário poderá digitar para consultar o candidato em que o perfil se adequa e fica dentro da média de notas solicitada.
+
+
+ 
+
